@@ -1,0 +1,14 @@
+{
+  "name": "pavan-bot",
+  "version": "1.0.0",
+  "description": "whatsapp bot (trial)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "venom-bot": "^3.1.4"
+  }
+}
